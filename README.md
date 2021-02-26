@@ -1,2 +1,2 @@
 # demo
-learning git and github demonstration.
+learning git and github demonstration!
